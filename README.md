@@ -10,3 +10,4 @@ contract ContractOwner {
         owner = msg.sender;
     }
 }
+Add contract templates for learning
