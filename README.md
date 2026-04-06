@@ -11,3 +11,4 @@ contract ContractOwner {
     }
 }
 Add contract templates for learning
+Improve contract modularity
