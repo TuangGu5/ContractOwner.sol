@@ -12,3 +12,4 @@ contract ContractOwner {
 }
 Add contract templates for learning
 Improve contract modularity
+Clean code formatting
