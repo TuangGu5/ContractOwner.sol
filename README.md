@@ -14,3 +14,4 @@ Add contract templates for learning
 Improve contract modularity
 Clean code formatting
 Fix minor issue
+Add basic error message
